@@ -17,7 +17,6 @@ export default function HomeScreen() {
                         style={{ backgroundColor: theme.bgWhite(0.2) }}>
                         <TextInput placeholder="Search" placeholderTextColor={"lightgray"}
                             className="pl-6 h-10 flex-1 text-base text-white" />
-                            
                     </View>
                 </View>
             </SafeAreaView>
